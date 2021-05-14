@@ -1,5 +1,4 @@
 $(function () {
-
     /* =========================================
      * tooltip
      *  =======================================*/
@@ -253,7 +252,7 @@ $(function () {
 function map() {
 
     var mapId = 'map',
-        mapCenter = [53.14, 8.22],
+        mapCenter = [10.7833,106.6802935],
         mapMarker = true;
 
     if ($('#' + mapId).length > 0) {
