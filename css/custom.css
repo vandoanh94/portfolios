@@ -20,6 +20,7 @@
 .hero-description {
   font-size: 1.25rem;
   max-width: 640px;
+  color: beige;
 }
 
 .hero-cta .btn {
